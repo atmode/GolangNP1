@@ -1,4 +1,4 @@
-This is a simple site for a university project, written in Go (Golang) and Next.js.
+This is a simple Web site for a university project, written in Go (Golang) and Next.js.
 
 ## Getting Started
 
